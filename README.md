@@ -1,2 +1,2 @@
 # DESIGNS
-These are all my UI/UX Designs I have worked on till now
+These are all my UX/UI Designs I have worked on till now
